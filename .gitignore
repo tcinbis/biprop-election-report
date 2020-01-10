@@ -1,0 +1,13 @@
+# Latex output
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.out
+*.gz
+venv/
+.idea/
+__pycache__/
+.coverage
+coverage.xml
